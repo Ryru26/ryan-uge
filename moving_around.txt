@@ -1,3 +1,5 @@
+I am making som stypid changes to your file
+
     1  echo $EDITOR
     2  echo $PATH
     3  git --version
@@ -32,7 +34,7 @@
    32  cd Documents
    33  ls
    34  pwd
-   35  ls 
+   35  ls
    36  pwd
    37  cd..
    38  cd ..
