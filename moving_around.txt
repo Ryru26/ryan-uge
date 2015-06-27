@@ -1,0 +1,65 @@
+    1  echo $EDITOR
+    2  echo $PATH
+    3  git --version
+    4  git config --global user.name 'ryan ruzich'
+    5  git config --global user.email 'rwruzich@yahoo.com'
+    6  curl -fsSL http://git.io/7UHtNA | sh
+    7  curl -fsSL http://git.io/Fasb | sh
+    8  clear
+    9  pwd
+   10  pwd
+   11  cd /c
+   12  ls
+   13  ls - t
+   14  ls -t
+   15  ls -l
+   16  ls -lt
+   17  ls - r
+   18  ls -r
+   19  ls -rt
+   20  clear
+   21  ls -ltr
+   22  clear
+   23  man ls
+   24  man ls
+   25  cd /ryru
+   26  cd /user/norm
+   27  cd
+   28  cd /c/users/Ryan\Ruzich
+   29  clear
+   30  pwd
+   31  ls
+   32  cd Documents
+   33  ls
+   34  pwd
+   35  ls 
+   36  pwd
+   37  cd..
+   38  cd ..
+   39  cd ../workspace
+   40  cd ls -d
+   41  cd d
+   42  ls -d
+   43  ls
+   44  cd documents
+   45  ls
+   46  cd
+   47  clear
+   48  ls -d
+   49  cd documents
+   50  cd ~
+   51  cd
+   52  ls ~
+   53  ls /
+   54  clear
+   55  ls -rt /
+   56  ...
+   57  cd ...
+   58   cd ../..
+   59  history
+   60  cd
+   61  history
+   62  history |less
+   63  pwd
+   64  ls
+   65  history >moving_around.txt
